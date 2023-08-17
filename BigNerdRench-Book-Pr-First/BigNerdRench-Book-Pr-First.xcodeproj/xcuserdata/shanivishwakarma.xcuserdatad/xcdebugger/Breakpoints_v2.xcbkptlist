@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "18C92264-C757-4125-912A-6688EA96A156"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2793E106-B008-41B2-92B2-95BCF8A4337C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BigNerdRench-Book-Pr-First/Controller/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "showNextQuestion(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "2793E106-B008-41B2-92B2-95BCF8A4337C - 2d477bc980e1b8af"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BigNerdRench_Book_Pr_First.ViewController.showNextQuestion(__C.UIButton) -&gt; ()"
+                  moduleName = "BigNerdRench-Book-Pr-First"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shanivishwakarma/Desktop/UDEMY_And_Other_prectices/IOS_again/IOSPractices/BigNerdRench-Book-Pr-First/BigNerdRench-Book-Pr-First/Controller/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "232">
+               </Location>
+               <Location
+                  uuid = "2793E106-B008-41B2-92B2-95BCF8A4337C - 2d477bc980e1b8af"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BigNerdRench_Book_Pr_First.ViewController.showNextQuestion(__C.UIButton) -&gt; ()"
+                  moduleName = "BigNerdRench-Book-Pr-First"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shanivishwakarma/Desktop/UDEMY_And_Other_prectices/IOS_again/IOSPractices/BigNerdRench-Book-Pr-First/BigNerdRench-Book-Pr-First/Controller/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "363">
+               </Location>
+               <Location
+                  uuid = "2793E106-B008-41B2-92B2-95BCF8A4337C - 4812d0b28c632ec8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BigNerdRench_Book_Pr_First.ViewController.showNextQuestion(__C.UIButton) -&gt; ()"
+                  moduleName = "BigNerdRench-Book-Pr-First"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shanivishwakarma/Desktop/UDEMY_And_Other_prectices/IOS_again/BIG-Nerd-Book-Practice/BigNerdRench-Book-Pr-First/BigNerdRench-Book-Pr-First/Controller/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "232">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E49BD6C5-44A5-4EC1-A798-254EFB9226DD"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BigNerdRench-Book-Pr-First/Controller/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "44"
+            endingLineNumber = "44"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "13AFCE6F-6DED-48AA-B771-88BADA1946E3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BigNerdRench-Book-Pr-First/Controller/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "showNextQuestion(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
